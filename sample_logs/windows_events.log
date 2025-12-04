@@ -1,0 +1,3 @@
+2025-01-02 10:15:32, Error, Source=Service Control Manager, EventID=7000, The XXX service failed to start due to the following error: The service did not respond to the start request.
+2025-01-02 10:20:10, Warning, Source=Disk, EventID=51, An error was detected on device \Device\Harddisk0\DR0 during a paging operation.
+2025-01-02 11:05:44, Information, Source=User32, EventID=1074, The process explorer.exe has initiated the restart of computer SERVER01 on behalf of user DOMAIN\\admin for the following reason: Operating System: Reconfiguration.

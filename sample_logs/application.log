@@ -1,0 +1,3 @@
+[2025-01-02 10:15:32,123] INFO [auth] User login successful for user=brandon ip=10.0.0.10
+[2025-01-02 10:16:05,456] WARN [payment] Payment gateway timeout for order_id=12345 retry=1
+[2025-01-02 10:16:45,789] ERROR [api] Unhandled exception when calling /v1/orders detail="NullReferenceException"

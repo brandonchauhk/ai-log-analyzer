@@ -1,0 +1,16 @@
+# 不要把 venv 推上 GitHub
+venv/
+
+# 不要把 API Key 推上去
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# OS 文件
+.DS_Store
+Thumbs.db
