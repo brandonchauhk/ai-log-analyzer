@@ -135,6 +135,8 @@ streamlit run app.py
 - 實作多個 AI 實戰專案（IT Helpdesk Chatbot、Ticket Auto-Triage、Log Analyzer）
 - 專注將 LLM 技術落地於企業 IT 運維與自動化場景
 
+---
+
 ## 🖼️ 介面截圖
 
 ![AI IT Helpdesk Chatbot Screenshot](./screenshot.png)
