@@ -102,10 +102,10 @@ streamlit run app.py
 
 瀏覽器會開啟（預設 `http://localhost:8501`）：
 
-1. 選擇 Log 類型（Windows / Linux / Application）  
-2. 上傳對應格式的 Log 檔案  
-3. 檢視解析後的結構化表格與基本統計  
-4. 使用 level / 關鍵字進行篩選  
+1. 選擇 Log 類型（Windows / Linux / Application）
+2. 上傳對應格式的 Log 檔案
+3. 檢視解析後的結構化表格與基本統計
+4. 使用 level / 關鍵字進行篩選
 5. 按下「使用 AI 進行智能分析」，查看 Markdown 分析報告
 
 ---
@@ -130,7 +130,13 @@ streamlit run app.py
 
 ## 👤 作者簡介
 
-- 20+ 年企業 IT Support / Information Systems 經驗  
-- 熟悉企業 IT 環境中的工單處理、系統監控與故障排查流程  
-- 實作多個 AI 實戰專案（IT Helpdesk Chatbot、Ticket Auto-Triage、Log Analyzer）  
+- 20+ 年企業 IT Support / Information Systems 經驗
+- 熟悉企業 IT 環境中的工單處理、系統監控與故障排查流程
+- 實作多個 AI 實戰專案（IT Helpdesk Chatbot、Ticket Auto-Triage、Log Analyzer）
 - 專注將 LLM 技術落地於企業 IT 運維與自動化場景
+
+## 🖼️ 介面截圖
+
+![AI IT Helpdesk Chatbot Screenshot](./screenshot.png)
+
+---
